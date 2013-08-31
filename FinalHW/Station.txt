@@ -1,0 +1,13 @@
+Seoul Chuncheon 16
+Seoul Asan 20
+Seoul Wonju 22
+Seoul Daejeon 29
+Chuncheon Wonju 28
+Chuncheon Kyungju 31
+Wonju Kyungju 32
+Wonju Daejeon 23
+Asan Daejeon 35
+Kyungju Daejeon 15
+Kyungju Gwangju 18
+Daejeon Gwangju 12
+Asan Gwangju 25
